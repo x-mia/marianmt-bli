@@ -1,6 +1,6 @@
 # marianmt-bli
 
-## Transformer machine translation model MarianMT for the bilingual lexicon induction task
+## Machine translation transformer model MarianMT for the bilingual lexicon induction task
 
 This repository contains training and testing datasets for three language pairs: Estonian-English, Estonian-Finnish, and Estonian-Russian.
 
