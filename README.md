@@ -23,4 +23,4 @@ python get_translations.py --src_lng et --tgt_lng fi --eval_df et-fi.csv --outpu
 
 ### Related work
 * [A. Conneau, G. Lample, L. Denoyer, MA. Ranzato, H. Jégou - *Word Translation Without Parallel Data*, 2017](https://arxiv.org/pdf/1710.04087.pdf)
-* [J.Tiedemann, S. Thottingal - *OPUS-MT - Building open translation services for the World*, 2017](https://aclanthology.org/2020.eamt-1.61)
+* [J.Tiedemann, S. Thottingal - *OPUS-MT - Building open translation services for the World*, 2017](https://aclanthology.org/2020.eamt-1.61.pdf)
