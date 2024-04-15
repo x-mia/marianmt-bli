@@ -13,11 +13,11 @@ This repository contains [training](https://github.com/x-mia/marianmt-bli/tree/m
 
 ### Evaluate aligned embeddings
 To evaluate MarianMT on the BLI task, simply run:
-```bash
+```
 python get_translations.py --src_lng SRC_LNG --tgt_lng TGT_LNG --eval_df EVAL_DF --output OUTPUT
 ```
 Example:
-```bash
+```
 python get_translations.py --src_lng et --tgt_lng fi --eval_df et-fi.csv --output result.csv
 ```
 
