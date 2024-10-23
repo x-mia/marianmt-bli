@@ -27,7 +27,7 @@ python get_translations.py --src_lng et --tgt_lng fi --eval_df et-fi.csv --outpu
 [1] Denisová, M. and Rychlý, P. (2024). [Bilingual Lexicon Induction From Comparable and Parallel Data: A Comparative Analysis.](https://doi.org/10.1007/978-3-031-70563-2_) In *International Conference on Text, Speech, and Dialogue*, pp. 30-42. Springer Nature Switzerland. 
 
 ```
-@InProceedings{denisova-rychly-bli-2024,
+@inproceedings{denisova-rychly-bli-2024,
 author="Denisov{\'a}, Michaela
 and Rychl{\'y}, Pavel",
 title="Bilingual Lexicon Induction From Comparable and Parallel Data: {A} Comparative Analysis",
